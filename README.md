@@ -176,4 +176,6 @@ class FavoritesScreen extends StatelessWidget {
   }
 }
 
+//Have written the code according to Dartpad. 
+
 
